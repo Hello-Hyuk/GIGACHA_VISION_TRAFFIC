@@ -1,6 +1,0 @@
-[submodule "workspace/catkin_ws/src/tensorrt_demos"]
-	path = workspace/catkin_ws/src/tensorrt_demos
-	url = https://github.com/jkjung-avt/tensorrt_demos.git
-[submodule "workspace/catkin_ws/src/GIGACHA-TensorRT"]
-	path = workspace/catkin_ws/src/GIGACHA-TensorRT
-	url = https://github.com/Hello-Hyuk/GIGACHA-TensorRT.git

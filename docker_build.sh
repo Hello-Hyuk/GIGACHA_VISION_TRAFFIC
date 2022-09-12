@@ -1,1 +1,1 @@
-docker build -t TRAFFIC .
+docker build -t gigacha_traffic .
